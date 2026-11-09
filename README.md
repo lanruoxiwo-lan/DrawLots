@@ -1,2 +1,3 @@
 # DrawLots
-a 
+
+a fortune-drawing app
